@@ -1,0 +1,14 @@
+{
+  "name": "reportes-scripts-prueba",
+  "version": "1.0.0",
+  "description": "Scripts de prueba para verificar vulnerabilidades",
+  "scripts": {
+    "test:jwt": "node test-jwt-fake.js",
+    "test:brute": "node brute-force-test.js",
+    "test:all": "npm run test:jwt && npm run test:brute"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
