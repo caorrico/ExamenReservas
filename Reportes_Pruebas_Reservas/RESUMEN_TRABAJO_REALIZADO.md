@@ -1,7 +1,7 @@
 # Resumen del Trabajo Realizado
 
 ## 📅 Fecha: 2026-02-02
-## 👨‍💻 Realizado por: Claude Code
+## 👨‍💻 Realizado por: Equipo de Desarrollo
 
 ---
 

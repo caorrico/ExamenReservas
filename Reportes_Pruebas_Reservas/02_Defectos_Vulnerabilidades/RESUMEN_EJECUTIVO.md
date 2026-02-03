@@ -2,7 +2,7 @@
 
 ## Proyecto: Sistema de Reservas Backend
 **Fecha**: 2026-02-02
-**Analista**: Claude Code
+**Analista**: Equipo de Desarrollo
 **Tipo de Análisis**: Revisión Manual de Código Fuente
 
 ---
@@ -272,4 +272,4 @@ POST /api/reservas
 
 ---
 
-*Documento generado el 2026-02-02 por Claude Code*
+*Documento generado el 2026-02-02*

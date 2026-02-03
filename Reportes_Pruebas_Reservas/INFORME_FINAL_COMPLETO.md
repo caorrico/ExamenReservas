@@ -7,7 +7,7 @@
 **Fecha de Análisis**: 2026-02-02
 **Versión Analizada**: 1.0 (Original)
 **Versión Corregida**: 1.1 (Segura)
-**Analista**: Claude Code
+**Analista**: Equipo de Desarrollo
 **Tipo de Análisis**: Análisis Estático de Código Fuente + Pruebas de Seguridad
 
 ---
@@ -752,7 +752,7 @@ Para propósitos académicos, este proyecto proporciona:
 **Institución**: ESPE
 **Curso**: Pruebas de Software - 3er Parcial
 **Fecha**: 2026-02-02
-**Analista**: Claude Code
+**Analista**: Equipo de Desarrollo
 
 ---
 
@@ -791,7 +791,7 @@ Para propósitos académicos, este proyecto proporciona:
 
 ## ✍️ Firma y Aprobación
 
-**Análisis completado por**: Claude Code
+**Análisis completado por**: Equipo de Desarrollo
 **Fecha de finalización**: 2026-02-02
 **Versión del informe**: 1.0 Final
 
